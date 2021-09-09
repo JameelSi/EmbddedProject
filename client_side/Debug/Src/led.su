@@ -1,0 +1,6 @@
+led.c:11:6:LED_init	4	static
+led.c:19:6:LED_off	4	static
+led.c:23:6:LED_on	4	static
+led.c:27:6:LED_toggle	4	static
+led.c:31:6:LED_blink_handle	8	static
+led.c:40:6:LED_change_state	8	static

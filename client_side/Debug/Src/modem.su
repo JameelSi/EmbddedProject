@@ -1,0 +1,10 @@
+modem.c:12:6:getWifiConnecting	4	static
+modem.c:15:6:setWifiConnecting	16	static
+modem.c:19:6:getServerConnecting	4	static
+modem.c:23:6:setServerConnecting	16	static
+modem.c:26:6:getServerState	4	static
+modem.c:29:6:setServerState	16	static
+modem.c:34:6:MODEM_init	8	static
+modem.c:46:6:delay	24	static
+modem.c:56:6:wifiConnect	40	dynamic
+modem.c:73:6:connectToServer	40	dynamic

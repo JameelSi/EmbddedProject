@@ -1,0 +1,4 @@
+eventQ.c:7:7:eventQ_init	8	static
+eventQ.c:11:7:eventQ_write	16	static
+eventQ.c:14:11:eventQ_read	8	static
+eventQ.c:18:7:eventQ_isEmpty	8	static

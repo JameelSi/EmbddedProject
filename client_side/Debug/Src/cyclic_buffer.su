@@ -1,0 +1,4 @@
+cyclic_buffer.c:5:7:buffer_init	16	static
+cyclic_buffer.c:10:7:buffer_write	16	static
+cyclic_buffer.c:17:7:buffer_read	24	static
+cyclic_buffer.c:25:7:buffer_isEmpty	16	static

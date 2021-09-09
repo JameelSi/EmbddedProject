@@ -1,0 +1,5 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+usart1.c:15:6:USART1_init	8	static
+usart1.c:37:6:USART1_getCommand	24	static
+usart1.c:51:6:USART1_EXTI25_IRQHandler	16	static
+usart1.c:71:6:USART1_print	16	static

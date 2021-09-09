@@ -1,0 +1,2 @@
+terminal.c:16:6:setWaitForIP	16	static
+terminal.c:20:6:TERMINAL_handleCommand	8	static
